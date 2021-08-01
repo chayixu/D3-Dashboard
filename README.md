@@ -2,7 +2,7 @@
 A Data Dashboard with D3
 
 ##Libraries:
-* D3.js  (src="https://d3js.org/d3.v4.js")
+* D3.js  (src="https://d3js.org/d3.v7.js")
 
 * topoJson  (src="https://unpkg.com/topojson@3")
 
